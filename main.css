@@ -35,7 +35,7 @@ h1 {
 .box {
   position:relative;
   vertical-align: middle;
-  color: #0b7;
+  color: #424242;
   display: inline-block;
   height: 60px;
   line-height: 60px;
@@ -44,7 +44,7 @@ h1 {
           transition: 0.5s;
   padding: 0 20px;
   cursor: pointer;
-  border: 2px solid #0b7;
+  border: 2px solid #424242;
   -webkit-transition:0.5s;
 }
 
@@ -97,8 +97,11 @@ h1 {
   -webkit-transform: scale(1);
 }
 
-
+.padit{
+  margin-left: 20%;
+}
 .test{
+  margin-top:20px;
   background-color: #212121;
   color: #F5F5F5;
   border-radius: 20px;
